@@ -19,6 +19,7 @@ var menu = new Menu()
         new(){Title = "Item 2"},
         new(){Title = "Item 3"},
         new(){Title = "Item 4"},
+        new(){Title = "Item 5"},
     ],
     Config = new MenuConfig()
     {
