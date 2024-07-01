@@ -20,6 +20,7 @@ var menu = new Menu()
         new(){Title = "Item 3"},
         new(){Title = "Item 4"},
         new(){Title = "Item 5"},
+        new(){Title = "Item 6"},
     ],
     Config = new MenuConfig()
     {
